@@ -2,4 +2,4 @@
 
 <h3>Projeto de um TO DO List, utilizando HTML 5, CSS 3 e Javascript (Vanilla)</h3>
 
-<p>Link para acesso ao projeto:</p>
+<p>Link para acesso ao projeto: https://allanphillip.github.io/to_do_list/</p>
